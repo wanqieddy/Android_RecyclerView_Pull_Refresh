@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/pre-dexed/debug/classes-45930827ee710060937db38dfbae43e76359b947.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-79d775b4119d1ab326b97cec93d14400e891ae26.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/pre-dexed/debug/classes-981e836bcaf8544e24ed005a0ad60badd8495ab8.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/pre-dexed/debug/classes-cf9d1db07c90b484112ee4edc940cb028e875801.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/bin/android_studio_sdk/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-b2c01824d7bda3773f0cc63527c154d20b4f7b23.jar" />
+    </item>
+    <item
+        jar="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/exploded-aar/PullRefreshLoadRecyclerView/recyclerview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="acc29f8d76737b2daae4048df590a64e98404145">
+        <dex dex="/home/wanqi/github/githubdemo/PullRefreshLoadRecyclerView/app/build/intermediates/pre-dexed/debug/classes-17611cc7bf846316022037b9fd260832aab50874.jar" />
+    </item>
+
+</items>
